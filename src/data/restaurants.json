@@ -1,0 +1,23 @@
+{
+        "Ace Eat Serve": {
+                "address": "501 E 17th Ave Denver CO, 80203",
+                "region": "Uptown",
+                "offers": {
+                        "Buy one entree, get one free": {
+                                "redeemed": false
+                        }
+                }
+        },
+        "Adrift Tiki Bar": {
+                "address": "501 E 17th Ave Denver CO, 80203",
+                "South Denver": "Uptown",
+                "offers": {
+                        "Buy One Drink, get one free": {
+                                "redeemed": false
+                        },
+                        "Buy one entree get one free": {
+                                "redeemed": false
+                        }     
+                }
+        }
+}
